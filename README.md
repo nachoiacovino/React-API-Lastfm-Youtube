@@ -4,3 +4,4 @@ This project was created with the intention so seek a playlist from the Last.fm 
 
 It was programmed with Hooks and the request to the APIs were done with Axios.
 
+When you clone the repository, you first need to `npm install` and then `npm start`
